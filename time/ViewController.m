@@ -22,6 +22,8 @@
     DIYPickerView * aaa=[[DIYPickerView alloc]initWithFrame:CGRectMake(0, 0, 400, 600)];
     [DIYPickerView pickViewWithArray:array forTextField:_pickerViewTextfield];
     [self.view addSubview:aaa];
+    
+//    /ssdfasdf
     // Do any additional setup after loading the view, typically from a nib.
 }
 
